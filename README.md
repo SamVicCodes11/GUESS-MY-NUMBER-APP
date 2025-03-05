@@ -34,11 +34,13 @@ Sound effects and animations for better user experience
 
 
 ## 🚀 Live Demo  
-🔗 [Visit the Website](https://mini-quiz-app-eta.vercel.app/)
+🔗 [Visit the Website](https://guess-my-number-app-ruddy.vercel.app/)
 
 
 ![Project Preview](./images/image2.png)
+
 ![Project Preview](./images/image3.png)
+
 ![Project Preview](./images/image4.png)
 
 
